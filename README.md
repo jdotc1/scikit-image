@@ -1,3 +1,13 @@
+## About this fork
+
+This is a development fork of [scikit-image/scikit-image](https://github.com/scikit-image/scikit-image), the Python collection of image-processing algorithms. Its modules cover filtering, segmentation, feature extraction, morphology, registration, and region measurements, useful for turning image arrays into quantitative analysis workflows across scientific domains.
+
+The fork's [upstream PR #8359](https://github.com/scikit-image/scikit-image/pull/8359) proposes native Linux ARM64 build and test coverage. It was open on 17 October 2026 and is tracked on its linked feature branch; the contribution concerns continuous integration for that specific platform.
+
+Follow the [official installation guide](https://github.com/scikit-image/scikit-image/blob/main/INSTALL.rst) and [documentation](https://scikit-image.org/docs/stable/) for supported APIs and examples. [Compare the default branch with upstream](https://github.com/jdotc1/scikit-image/compare/scikit-image:main...jdotc1:main). The upstream README preserves the community links, license, and publication citation.
+
+---
+
 # scikit-image: Image processing in Python
 
 [![Image.sc forum](https://img.shields.io/badge/dynamic/json.svg?label=forum&url=https%3A%2F%2Fforum.image.sc%2Ftags%2Fscikit-image.json&query=%24.topic_list.tags.0.topic_count&colorB=brightgreen&suffix=%20topics&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAABPklEQVR42m3SyyqFURTA8Y2BER0TDyExZ+aSPIKUlPIITFzKeQWXwhBlQrmFgUzMMFLKZeguBu5y+//17dP3nc5vuPdee6299gohUYYaDGOyyACq4JmQVoFujOMR77hNfOAGM+hBOQqB9TjHD36xhAa04RCuuXeKOvwHVWIKL9jCK2bRiV284QgL8MwEjAneeo9VNOEaBhzALGtoRy02cIcWhE34jj5YxgW+E5Z4iTPkMYpPLCNY3hdOYEfNbKYdmNngZ1jyEzw7h7AIb3fRTQ95OAZ6yQpGYHMMtOTgouktYwxuXsHgWLLl+4x++Kx1FJrjLTagA77bTPvYgw1rRqY56e+w7GNYsqX6JfPwi7aR+Y5SA+BXtKIRfkfJAYgj14tpOF6+I46c4/cAM3UhM3JxyKsxiOIhH0IO6SH/A1Kb1WBeUjbkAAAAAElFTkSuQmCC)](https://forum.image.sc/tags/scikit-image)
